@@ -1,0 +1,13 @@
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.exe
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.deps.json
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.json
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.runtimeconfig.dev.json
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\bin\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csprojAssemblyReference.cache
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfoInputs.cache
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.AssemblyInfo.cs
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.dll
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.pdb
+C:\Users\soerr\Desktop\CSharpPractice\LeapYear\obj\Debug\netcoreapp3.1\LeapYear.genruntimeconfig.cache
