@@ -1,0 +1,13 @@
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\bin\Debug\netcoreapp3.1\CountWords.exe
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\bin\Debug\netcoreapp3.1\CountWords.deps.json
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\bin\Debug\netcoreapp3.1\CountWords.runtimeconfig.json
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\bin\Debug\netcoreapp3.1\CountWords.runtimeconfig.dev.json
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\bin\Debug\netcoreapp3.1\CountWords.dll
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\bin\Debug\netcoreapp3.1\CountWords.pdb
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\obj\Debug\netcoreapp3.1\CountWords.csprojAssemblyReference.cache
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\obj\Debug\netcoreapp3.1\CountWords.AssemblyInfoInputs.cache
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\obj\Debug\netcoreapp3.1\CountWords.AssemblyInfo.cs
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\obj\Debug\netcoreapp3.1\CountWords.csproj.CoreCompileInputs.cache
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\obj\Debug\netcoreapp3.1\CountWords.dll
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\obj\Debug\netcoreapp3.1\CountWords.pdb
+C:\Users\soerr\Desktop\CSharpPractice\CountWords\obj\Debug\netcoreapp3.1\CountWords.genruntimeconfig.cache
