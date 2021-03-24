@@ -1,0 +1,12 @@
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\bin\Debug\netcoreapp3.1\FilterRule.exe
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\bin\Debug\netcoreapp3.1\FilterRule.deps.json
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\bin\Debug\netcoreapp3.1\FilterRule.runtimeconfig.json
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\bin\Debug\netcoreapp3.1\FilterRule.runtimeconfig.dev.json
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\bin\Debug\netcoreapp3.1\FilterRule.dll
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\bin\Debug\netcoreapp3.1\FilterRule.pdb
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\obj\Debug\netcoreapp3.1\FilterRule.AssemblyInfoInputs.cache
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\obj\Debug\netcoreapp3.1\FilterRule.AssemblyInfo.cs
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\obj\Debug\netcoreapp3.1\FilterRule.csproj.CoreCompileInputs.cache
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\obj\Debug\netcoreapp3.1\FilterRule.dll
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\obj\Debug\netcoreapp3.1\FilterRule.pdb
+G:\A-I_Backup\VIII_CodingProjekte\VIII_C#\NetCoreProjekte\Filter\Filter\obj\Debug\netcoreapp3.1\FilterRule.genruntimeconfig.cache
