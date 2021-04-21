@@ -2,13 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace VariableTypes
+namespace ReferenceTypeClass
 {
     public class ExampleClass
     {
         // Private class readonly variable
         private static readonly int StaticRandomNumber = 11;
-        
+
         // These readonly variable can be used by constructors.
         // These variables will be put onto the heap, which differs
         // them from constants, which don´t need dynamic memory

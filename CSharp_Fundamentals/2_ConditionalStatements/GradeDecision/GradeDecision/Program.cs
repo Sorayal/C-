@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Classic switch decision without pattern matching
+using System;
 
 namespace GradeDecision
 {

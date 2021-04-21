@@ -1,14 +1,15 @@
 ﻿// Example demo for conditional statement structures
+// switch-case vs if-else
 using System;
 
-namespace ConditionalStatements
+namespace AnotherSwitchDemoWithCombinedCases
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main()
         {
             // Conditional statements with switch-case.
-            Console.WriteLine("Gib einen Buchstaben zwischen A und F ein.");
+            Console.WriteLine("Enter a char between A und F: ");
             string input = Console.ReadLine();
             input = input.ToUpper();
             switch (input)
@@ -26,12 +27,12 @@ namespace ConditionalStatements
                     Console.WriteLine("Grade bad");
                     break;
                 default:
-                    Console.WriteLine("Kein gueltiges Zeichen");
+                    Console.WriteLine("Not a valid char");
                     break;
             }
 
             // Conditional statements with if-else if - else
-            Console.WriteLine("Gib einen weiteren Buchstaben zwischen A und F ein.");
+            Console.WriteLine("Enter another char between A und F: ");
             input = Console.ReadLine();
             input = input.ToUpper();
 
@@ -49,7 +50,7 @@ namespace ConditionalStatements
             }
             else
             {
-                Console.WriteLine("Kein gueltiges Zeichen");
+                Console.WriteLine("Not a valid char");
             }
         }
     }
