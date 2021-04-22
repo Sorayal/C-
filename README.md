@@ -1,1 +1,1 @@
-In this repository you will find some code snippets.
+In this repository is reserved mainly for C#.
