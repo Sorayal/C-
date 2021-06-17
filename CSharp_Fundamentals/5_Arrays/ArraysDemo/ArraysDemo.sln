@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraysDemo", "ArraysDemo\ArraysDemo.csproj", "{09923205-E33C-4471-877B-2FE1FB117324}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ForEachArray", "ForEachArray\ForEachArray.csproj", "{35D033CF-267B-495D-ACA2-4A34B1108666}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultidimensionalArrays", "MultidimensionalArrays\MultidimensionalArrays.csproj", "{B2309755-4291-4B96-85CD-62166D994C61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArrays", "JaggedArrays\JaggedArrays.csproj", "{0A37CE61-CE92-487F-B0B1-473A6BB034AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChallengeJaggedArray", "ChallengeJaggedArray\ChallengeJaggedArray.csproj", "{8D7968B8-B396-4C37-B7D6-F09085155645}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraysAsParameter", "ArraysAsParameter\ArraysAsParameter.csproj", "{4C58D896-A7B7-4E1F-A0B7-D484A018E4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayLists", "ArrayLists\ArrayLists.csproj", "{AFE61A97-37C2-42FF-BE64-E1294D47A4CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09923205-E33C-4471-877B-2FE1FB117324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09923205-E33C-4471-877B-2FE1FB117324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09923205-E33C-4471-877B-2FE1FB117324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09923205-E33C-4471-877B-2FE1FB117324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35D033CF-267B-495D-ACA2-4A34B1108666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35D033CF-267B-495D-ACA2-4A34B1108666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35D033CF-267B-495D-ACA2-4A34B1108666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35D033CF-267B-495D-ACA2-4A34B1108666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2309755-4291-4B96-85CD-62166D994C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2309755-4291-4B96-85CD-62166D994C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2309755-4291-4B96-85CD-62166D994C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2309755-4291-4B96-85CD-62166D994C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A37CE61-CE92-487F-B0B1-473A6BB034AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A37CE61-CE92-487F-B0B1-473A6BB034AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A37CE61-CE92-487F-B0B1-473A6BB034AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A37CE61-CE92-487F-B0B1-473A6BB034AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7968B8-B396-4C37-B7D6-F09085155645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7968B8-B396-4C37-B7D6-F09085155645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7968B8-B396-4C37-B7D6-F09085155645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7968B8-B396-4C37-B7D6-F09085155645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C58D896-A7B7-4E1F-A0B7-D484A018E4C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C58D896-A7B7-4E1F-A0B7-D484A018E4C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C58D896-A7B7-4E1F-A0B7-D484A018E4C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C58D896-A7B7-4E1F-A0B7-D484A018E4C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE61A97-37C2-42FF-BE64-E1294D47A4CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE61A97-37C2-42FF-BE64-E1294D47A4CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE61A97-37C2-42FF-BE64-E1294D47A4CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE61A97-37C2-42FF-BE64-E1294D47A4CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {892146CA-2DF4-4349-AC5E-A2DD2C949468}
+	EndGlobalSection
+EndGlobal
